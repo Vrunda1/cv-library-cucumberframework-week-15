@@ -1,0 +1,27 @@
+2022-05-19 15:05:50 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 15:05:779 INFO  HomePage :58 - Enter JobTitleTester to email field [[ChromeDriver: chrome on WINDOWS (edb2f87bd21ee368c500573fb2bf2b45)] -> id: keywords]<br>
+2022-05-19 15:05:846 INFO  HomePage :63 - Enter LocationHarrow to email field [[ChromeDriver: chrome on WINDOWS (edb2f87bd21ee368c500573fb2bf2b45)] -> id: location]<br>
+2022-05-19 15:05:25 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 15:05:749 INFO  HomePage :90 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (e35ee62d684f66d199a519719fa9f96f)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 15:05:883 INFO  HomePage :58 - Enter JobTitleTester to email field [[ChromeDriver: chrome on WINDOWS (e35ee62d684f66d199a519719fa9f96f)] -> id: keywords]<br>
+2022-05-19 15:05:63 INFO  HomePage :63 - Enter LocationHarrow to email field [[ChromeDriver: chrome on WINDOWS (e35ee62d684f66d199a519719fa9f96f)] -> id: location]<br>
+2022-05-19 18:05:277 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-19 18:05:738 INFO  HomePage :90 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (0968f252bab937acbd66fde0bd7336a0)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-19 18:05:819 INFO  HomePage :58 - Enter JobTitleTester to email field [[ChromeDriver: chrome on WINDOWS (0968f252bab937acbd66fde0bd7336a0)] -> id: keywords]<br>
+2022-05-19 18:05:988 INFO  HomePage :63 - Enter LocationHarrow to email field [[ChromeDriver: chrome on WINDOWS (0968f252bab937acbd66fde0bd7336a0)] -> id: location]<br>
+2022-05-20 01:05:257 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 01:05:203 INFO  HomePage :90 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (76a8d9c893eedc8a1b273ca78260178b)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-20 01:05:483 INFO  HomePage :58 - Enter JobTitleTester to email field [[ChromeDriver: chrome on WINDOWS (76a8d9c893eedc8a1b273ca78260178b)] -> id: keywords]<br>
+2022-05-20 01:05:573 INFO  HomePage :63 - Enter LocationHarrow to email field [[ChromeDriver: chrome on WINDOWS (76a8d9c893eedc8a1b273ca78260178b)] -> id: location]<br>
+2022-05-20 01:05:656 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-05-20 01:05:40 INFO  HomePage :90 - Clicking on Accept Cookies : [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> xpath: //*[contains(text(),'Accept')]]
+2022-05-20 01:05:165 INFO  HomePage :58 - Enter JobTitleTester to email field [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: keywords]<br>
+2022-05-20 01:05:353 INFO  HomePage :63 - Enter LocationHarrow to email field [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: location]<br>
+2022-05-20 01:05:429 INFO  HomePage :67 - Selecting Distance5 from dropdown [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: distance]<br>
+2022-05-20 01:05:742 INFO  HomePage :72 - Clicking on MoreSearchOption[[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: toggle-hp-search]<br>
+2022-05-20 01:05:998 INFO  HomePage :77 - Enter MinSalary30000 to email field [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: salarymin]<br>
+2022-05-20 01:05:44 INFO  HomePage :81 - Enter MaxSalary500000 to email field [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: salarymax]<br>
+2022-05-20 01:05:78 INFO  HomePage :85 - Selecting SalaryTypeannum from dropdown [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> xpath: //select[@id='salarytype']]<br>
+2022-05-20 01:05:136 INFO  HomePage :94 - Selecting JobTypePermanent from dropdown [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> xpath: //select[@id='tempperm']]<br>
+2022-05-20 01:05:209 INFO  HomePage :98 - Clicking on FindJobsButton[[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> id: hp-search-btn]<br>
+2022-05-20 01:05:141 INFO  ResultPage :25 - getting result text from [[ChromeDriver: chrome on WINDOWS (33ff6feab1e0c686e7571a2ab3a979ad)] -> xpath: //h1[@class='search-header__title']]<br>
